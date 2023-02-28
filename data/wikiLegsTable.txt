@@ -1,0 +1,742 @@
+{| style="width: 690px;" class="wikitable sortable" border="0" cellpadding="1" cellspacing="1"   " wikitable collapsible
+|-
+! scope="col" |Name
+! data-sort-type="number" |Level
+! data-sort-type="number" |Def.
+! data-sort-type="number" |Magic<br />Def.
+! scope="col" |Special Effect
+! scope="col" |Lives
+! scope="col" |Gender
+|-
+|[[Angelic Pantaloons]]
+|_
+|7
+|7
+|
+|All
+|
+|-
+|[[Artisan's Puffy Shorts]]
+|_
+|3
+|0
+|Focus +1
+|All
+|
+|-
+|[[Banded Skirt]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Carp Trousers (♂)]]
+|_
+|2
+|0
+|
+|[[File:Angler icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Carp Trousers (♀)]]
+|_
+|2
+|0
+|
+|[[File:Angler icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Carpenter's Baggies]]
+|_
+|2
+|0
+|
+|[[File:Carpenter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Carpenter's Slimfit]]
+|_
+|2
+|0
+|
+|[[File:Carpenter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Castele Skirt]]
+|_
+|2
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Castele Slacks]]
+|_
+|2
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Chequered Skirt]]
+|_
+|6
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Chic Maajik Capris]]
+|_
+|5
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Chic Maajik Skirt]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Dancer's Bottoms]]
+|_
+|7
+|7
+|Dexterity +1
+|All
+|
+|-
+|[[Demon Tights]]
+|_
+|7
+|7
+|
+|All
+|
+|-
+|[[Denim Long Skirt]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Desert Diva Skirt]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Duelling Bottoms]]
+|_
+|5
+|0
+|
+|All
+|
+|-
+|[[Formal Trousers]]
+|_
+|5
+|1
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Frilly Skirt]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Gaudy Bottoms]]
+|_
+|6
+|4
+|Luck +2
+|All
+|
+|-
+|[[Harbour Hunk Slacks]]
+|_
+|4
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Harbour Hunny Skirt]]
+|_
+|4
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Highland Kilt]]
+|_
+|3
+|0
+|
+|All
+|
+|-
+|[[Hunter's Trousers]]
+|_
+|2
+|0
+|
+|[[File:Hunter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Huntress's Bottoms]]
+|_
+|2
+|0
+|
+|[[File:Hunter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Kodama Bottoms]]
+|_
+|2
+|0
+|
+|[[File:Woodcutter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Kodama Pantaloons]]
+|_
+|2
+|0
+|
+|[[File:Woodcutter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Leather Leggings]]
+|_
+|5
+|0
+|
+|All
+|
+|-
+|[[Lined Skirt]]
+|_
+|4
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Linen Bottoms]]
+|_
+|5
+|0
+|Intelligence +1
+|All
+|
+|-
+|[[Loose Trousers]]
+|_
+|5
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Maharaja Bottoms]]
+|_
+|6
+|0
+|
+|All
+|
+|-
+|[[Mercenary's Greaves (♂)]]
+|_
+|3
+|0
+|
+|[[File:Mercenary icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Mercenary's Greaves (♀)]]
+|_
+|3
+|0
+|
+|[[File:Mercenary icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Miner Short-Shorts]]
+|_
+|2
+|0
+|
+|[[File:Miner icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Paladin Leg Guards (♂)]]
+|_
+|3
+|0
+|
+|[[File:Paladin icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Paladin Leg Guards (♀)]]
+|_
+|3
+|0
+|
+|[[File:Paladin icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Polka Dot Skirt]]
+|_
+|8
+|8
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Prisoner's Shorts]]
+|_
+|8
+|0
+|
+|All
+|
+|-
+|[[Punk Bottoms]]
+|_
+|10
+|0
+|Strength +1
+|All
+|
+|-
+|[[Quilted Bottoms]]
+|_
+|4
+|1
+|
+|All
+|
+|-
+|[[Rock Bottoms]]
+|_
+|2
+|0
+|
+|[[File:Miner icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Sailor's Bottoms]]
+|_
+|7
+|7
+|
+|All
+|
+|-
+|[[Sea Sarong]]
+|_
+|4
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Sea Trunks]]
+|_
+|4
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Seafarer's Capris]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Snow Bottoms]]
+|_
+|7
+|7
+|
+|All
+|
+|-
+|[[Striped Skirt]]
+|_
+|3
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Summer-Fun Bottoms]]
+|_
+|7
+|7
+|Vitality +1
+|All
+|
+|-
+|[[Sunshine Skirt]]
+|_
+|4
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Watermeloons]]
+|_
+|5
+|0
+|
+|All
+|
+|-
+|[[Yippee-Ki-Yay Chaps]]
+|_
+|7
+|7
+|
+|All
+|
+|-
+|[[Frigid Bottoms]]
+|5
+|5
+|5
+|Water Element +
+|All
+|
+|-
+|[[Iron Leg Guards]]
+|5
+|10
+|0
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Snakeskin Leggings]]
+|5
+|7
+|2
+|Poison
+resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Coastal Bottoms]]
+|7
+|10
+|10
+|Wind Element +
+|All
+|
+|-
+|[[Mermaid Leggings]]
+|7
+|13
+|5
+|Water Element +
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Savage Leggings]]
+|7
+|15
+|5
+|Strength +1
+|All
+|
+|-
+|[[Gold Leg Guards]]
+|10
+|20
+|8
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Grotto Bottoms]]
+|10
+|13
+|13
+|Earth Element +
+|All
+|
+|-
+| style="background: wheat" |'''[[Lovely Sarong]]'''
+|10
+|17
+|11
+|Water<br />Element ++
+|All
+|[[File:Female only.png]]
+|-
+|[[Sandy Bottoms]]
+|10
+|13
+|13
+|Fire Element +
+|All
+|
+|-
+|[[Shell Bottoms]]
+|10
+|17
+|8
+|Water Element +
+|All
+|
+|-
+| style="background: wheat" |'''[[Surf's Up Shorts]]'''
+|10
+|17
+|11
+|Water
+Element ++
+|All
+|[[File:Male only.png]]
+|-
+|[[Beastly Leggings]]
+|15
+|24
+|12
+|Strength +2
+|All
+|
+|-
+|[[Gladiator's Leg Guards]]
+|15
+|30
+|4
+|
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]]
+|
+|-
+|[[Magic Leg Guards]]
+|15
+|28
+|20
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sky-High Bottoms]]
+|15
+|16
+|16
+|Luck +2
+|All
+|
+|-
+|[[Inferno Leggings]]
+|20
+|34
+|18
+|Fire Element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Tidal Leggings]]
+|20
+|34
+|18
+|Water Element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Buccaneer's Bottoms]]
+|25
+|32
+|28
+|
+|All
+|
+|-
+|[[Dragon Leggings]]
+|25
+|32
+|15
+|Stun resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Monarch Tights]]
+|25
+|28
+|32
+|
+|All
+|
+|-
+|[[Chief's Breeches]]
+|30
+|35
+|12
+|Vitality +4
+|[[File:Carpenter icon 1.png]]
+|
+|-
+|[[Crusader's Leg Guards]]
+|30
+|44
+|20
+|Vitality +4
+|[[File:Paladin icon 1.png]]
+|
+|-
+|[[Grand Miner's Bottoms]]
+|30
+|35
+|12
+|Vitality +4
+|[[File:Miner icon 1.png]]
+|
+|-
+|[[Holy Leggings]]
+|30
+|47
+|15
+|Luck +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sniper's Culottes]]
+|30
+|35
+|12
+|Dexterity +4
+|[[File:Hunter icon 1.png]]
+|
+|-
+|[[Tough Leg Guards]]
+|30
+|42
+|15
+|Vitality +4
+|[[File:Mercenary icon 1.png]]
+|
+|-
+|[[Woodland Trousers]]
+|30
+|35
+|12
+|Vitality +4
+|[[File:Woodcutter icon 1.png]]
+|
+|-
+| style="background: aquamarine" |'''[[Origin Island Bottoms]]'''
+|40
+|30
+|30
+|Luck +4
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Rune Leg Guards]]'''
+|45
+|50
+|25
+|Water
+Element ++
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |'''[[Shadow Leg Guards]]'''
+|45
+|34
+|19
+|Strength +4
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Fafnir's Leggings]]'''
+|55
+|44
+|20
+|Stun resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+| style="background: aquamarine" |'''[[Godly Leggings]]'''
+|55
+|60
+|16
+|Strength +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |'''[[Freya's Skirt]]'''
+|60
+|45
+|50
+|Luck +2
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |'''[[Sacred Trousers]]'''
+|60
+|38
+|40
+|Focus +2
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Minerva's Skirt]]'''
+|70
+|50
+|55
+|Luck +4
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |'''[[Valkyrie Skirt]]'''
+|80
+|55
+|60
+|Luck +6
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Ares Guard|'''Ares Guard''']]
+|90
+|70
+|25
+|Strength +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|}

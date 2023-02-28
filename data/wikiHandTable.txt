@@ -1,0 +1,680 @@
+{| style="width: 670px;" class="wikitable sortable" border="0" cellpadding="1" cellspacing="1"   " wikitable collapsible
+|-
+! scope="col" |Name
+! data-sort-type="number" |Level
+! data-sort-type="number" |Def.
+! data-sort-type="number" |Magic<br />Def.
+! scope="col" |Special Effect
+! scope="col" |Lives
+! scope="col" |Gender
+|-
+|[[Angelic Bangles]]
+|_
+|5
+|5
+|
+|All
+|
+|-
+|[[Artisan's Mitts]]
+|_
+|2
+|0
+|Focus +1
+|All
+|
+|-
+|[[Carpenter's Gloves]]
+|_
+|1
+|0
+|
+|[[File:Carpenter icon 1.png]]
+|
+|-
+|[[Cook's Gloves]]
+|_
+|1
+|0
+|
+|[[File:Cook icon 1.png]]
+|
+|-
+|[[Dragon Claws]]
+|_
+|8
+|5
+|Strength +2
+|All
+|
+|-
+|[[Fluffy Mitts]]
+|_
+|5
+|5
+|Sleep resistance
+|All
+|
+|-
+| style="background: wheat" |[[Friendship Gloves|'''Friendship Gloves''']]
+|_
+|30
+|30
+|Quickly befriend
+visitors
+|All
+|
+|-
+|[[Gaudy Gloves]]
+|_
+|5
+|2
+|Luck +2
+|All
+|
+|-
+|[[Glitter Bangles]]
+|_
+|5
+|5
+|Dexterity +1
+|All
+|
+|-
+|[[Gold Bangles]]
+|_
+|4
+|2
+|Intelligence +1
+|All
+|
+|-
+|[[Leather Gauntlets]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Merc Gauntlets]]
+|_
+|2
+|0
+|
+|[[File:Mercenary_icon_1.png]]
+|
+|-
+|[[Miner's Mitts]]
+|_
+|1
+|0
+|
+|[[File:Miner_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Miracle Gloves|'''Miracle Gloves''']]
+|_
+|30
+|30
+|Revive NPC
+with full HP
+|All
+|
+|-
+|[[Ninja Bracers]]
+|_
+|10
+|15
+|Critical rate +
+|All
+|
+|-
+|[[Paladin's Gauntlets]]
+|_
+|2
+|0
+|
+|[[File:Paladin_icon_1.png]]
+|
+|-
+|[[Plushling Hands]]
+|_
+|8
+|8
+|Max HP +20
+|All
+|
+|-
+|[[Quilted Mittens]]
+|_
+|3
+|1
+|
+|All
+|
+|-
+|[[Slash Bangles]]
+|_
+|8
+|0
+|Strength +1
+|All
+|
+|-
+|[[Snow Gloves]]
+|_
+|5
+|5
+|
+|All
+|
+|-
+| style="background: wheat" |[[Treasure Gloves|'''Treasure Gloves''']]
+|_
+|30
+|30
+|Drops from
+red chests x2
+|All
+|
+|-
+|[[Frigid Gloves]]
+|5
+|3
+|3
+|Water element +
+|All
+|
+|-
+|[[Iron Gauntlets]]
+|5
+|8
+|0
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Snakeskin Gloves]]
+|5
+|5
+|2
+|Poison resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Coastal Gloves]]
+|7
+|7
+|7
+|Wind element +
+|All
+|
+|-
+|[[Mermaid Gloves]]
+|7
+|9
+|3
+|Water element +
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Savage Gauntlets]]
+|7
+|10
+|4
+|Strength +1
+|All
+|
+|-
+|[[Gold Gauntlets]]
+|10
+|14
+|6
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Grotto Gloves]]
+|10
+|9
+|9
+|Earth element +
+|All
+|
+|-
+|[[Sandy Gloves]]
+|10
+|9
+|9
+|Fire element +
+|All
+|
+|-
+|[[Shell Gauntlets]]
+|10
+|11
+|5
+|Water element +
+|All
+|
+|-
+|[[Beastly Gauntlets]]
+|15
+|16
+|8
+|Strength +2
+|All
+|
+|-
+|[[Gladiator's Wristbands]]
+|15
+|22
+|3
+|
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]]
+|
+|-
+|[[Magic Gauntlets]]
+|15
+|20
+|16
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sky-High Gloves]]
+|15
+|10
+|10
+|Luck +1
+|All
+|
+|-
+| style="background: wheat" |[[Bandit Gloves|'''Bandit Gloves''']]
+|20
+|7
+|15
+|Strength +10
+|All
+|
+|-
+| style="background: wheat" |[[Buccaneer Wristbands|'''Buccaneer Wristbands''']]
+|20
+|16
+|9
+|Line Gauge
+Recovery ++
+|All
+|
+|-
+|[[Butler's Gloves]]
+|20
+|12
+|18
+|Friendship
+growth rate ++
+|All
+|
+|-
+|[[Cacto Hands]]
+|20
+|14
+|16
+|Wind element ++
+|All
+|
+|-
+| style="background: wheat" |[[Carrotella Hands|'''Carrotella Hands''']]
+|20
+|15
+|5
+|HP orb
+drop rate ++
+|All
+|
+|-
+| style="background: wheat" |[[Celestial Gloves|'''Celestial Gloves''']]
+|20
+|23
+|3
+|Special deposit
+damage ++
+|All
+|
+|-
+| style="background: wheat" |[[Daemon's Bangles|'''Daemon's Bangles''']]
+|20
+|11
+|38
+|Water element ++
+|All
+|
+|-
+| style="background: wheat" |[[Danuta's Gloves|'''Danuta's Gloves''']]
+|20
+|20
+|1
+|Magic Defence +10
+|All
+|
+|-
+|[[Fluffkin Paws]]
+|20
+|17
+|1
+|Fire element ++
+|All
+|
+|-
+|[[Frilly Wristband]]
+|20
+|12
+|15
+|Friendship
+growth rate ++
+|All
+|
+|-
+| style="background: wheat" |[[Goddess's Gloves|'''Goddess's Gloves''']]
+|20
+|15
+|30
+|God Mode
+time ++
+|All
+|
+|-
+| style="background: wheat" |[[Gold Dragon Claws|'''Gold Dragon Claws''']]
+|20
+|24
+|17
+|Strength +10
+|All
+|
+|-
+|[[Inferno Gauntlets]]
+|20
+|24
+|14
+|Fire element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Magic Gauntlets]]
+|20
+|8
+|18
+|Intelligence +2
+|All
+|
+|-
+|[[Snowman Hands]]
+|20
+|12
+|11
+|Water element ++
+|All
+|
+|-
+|[[Tidal Gauntlets]]
+|20
+|24
+|14
+|Water element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Monarch Gloves]]
+|25
+|18
+|20
+|
+|All
+|
+|-
+|[[Chief's Hand Guards]]
+|30
+|24
+|12
+|Strength +4
+|[[File:Carpenter icon 1.png]]
+|
+|-
+|[[Crusader's Gauntlets]]
+|30
+|34
+|15
+|Strength +4
+|[[File:Paladin_icon_1.png]]
+|
+|-
+|[[Famous Fisher's Gloves]]
+|30
+|24
+|12
+|Dexterity +4
+|[[File:Angler icon 1.png]]
+|
+|-
+|[[Grand Miner's Mitts]]
+|30
+|24
+|12
+|Strength +4
+|[[File:Miner_icon_1.png]]
+|
+|-
+|[[Hammer Gloves]]
+|30
+|24
+|12
+|Strength +4
+|[[File:Blacksmith_icon_1.png]]
+|
+|-
+|[[Holy Gauntlets]]
+|30
+|36
+|12
+|Luck +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Metal Gauntlets]]
+|30
+|32
+|10
+|Strength +4
+|[[File:Mercenary_icon_1.png]]
+|
+|-
+|[[Silk Pincushion]]
+|30
+|22
+|18
+|Dexterity +4
+|[[File:Tailor icon 1.png]]
+|
+|-
+|[[Sniper's Gloves]]
+|30
+|24
+|12
+|Critical rate +
+|[[File:Hunter icon 1.png]]
+|
+|-
+|[[Woodland Bangles]]
+|30
+|24
+|12
+|Strength +4
+|[[File:Woodcutter_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Odin's Gloves|'''Odin's Gloves''']]
+|40
+|36
+|10
+|Attack +15
+|All
+|
+|-
+| style="background: aquamarine" |[[Origin Island Gloves|'''Origin Island Gloves''']]
+|40
+|18
+|18
+|Luck +2
+|All
+|
+|-
+| style="background: aquamarine" |[[Rune Gauntlets|'''Rune Gauntlets''']]
+|45
+|36
+|22
+|Wind element ++
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Shadow Gauntlets|'''Shadow Gauntlets''']]
+|45
+|28
+|17
+|Strength +4
+|All
+|
+|-
+| style="background: aquamarine" |[[Fafnir's Gloves|'''Fafnir's Gloves''']]
+|55
+|34
+|14
+|Poison resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+| style="background: aquamarine" |[[Godly Gauntlets|'''Godly Gauntlets''']]
+|55
+|46
+|13
+|Strength +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Freya's Hand Guards|'''Freya's Hand Guards''']]
+|60
+|30
+|35
+|Luck +2
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Officer's Hand Guards|'''Officer's Hand Guards''']]
+|60
+|48
+|14
+|Vitality +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Sacred Hand Guards|'''Sacred Hand Guards''']]
+|60
+|21
+|32
+|Focus +2
+|All
+|
+|-
+| style="background: aquamarine" |[[Lord's Hand Guards|'''Lord's Hand Guards''']]
+|70
+|53
+|16
+|Luck +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Minerva's Hand Guards|'''Minerva's Hand Guards''']]
+|70
+|35
+|40
+|Luck +4
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Philosopher's Mitts|'''Philosopher's Mitts''']]
+|80
+|30
+|64
+|SP recovery
+speed ++
+|All
+|
+|-
+| style="background: aquamarine" |[[Shogun Hand Guards|'''Shogun Hand Guards''']]
+|80
+|58
+|18
+|Strength +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Valkyrie Hand Guards|'''Valkyrie Hand Guards''']]
+|80
+|40
+|45
+|Luck +6
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Ares Hand Guards|'''Ares Hand Guards''']]
+|90
+|65
+|20
+|Critical rate +++
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Dark Sultan's Gauntlets|'''Dark Sultan's Gauntlets''']]
+|100
+|45
+|49
+|Earth element +++
+|All
+|
+|-
+| style="background: wheat" |[[Dragon King's Gauntlets|'''Dragon King's Gauntlets''']]
+|100
+|75
+|15
+|Fire element +++
+|All
+|
+|-
+| style="background: wheat" |[[Sea Lord's Gauntlets|'''Sea Lord's Gauntlets''']]
+|100
+|65
+|31
+|Water element +++
+|All
+|
+|-
+| style="background: wheat" |[[Spirit King's Gauntlets|'''Spirit King's Gauntlets''']]
+|100
+|57
+|38
+|Wind element +++
+|All
+|
+|}

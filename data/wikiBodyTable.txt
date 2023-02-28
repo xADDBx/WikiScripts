@@ -1,0 +1,1169 @@
+{| style="width: 690px;" class="wikitable sortable" border="0" cellpadding="1" cellspacing="1"   " wikitable collapsible
+|-
+! scope="col" |Name
+! data-sort-type="number" |Level
+! data-sort-type="number" |Def.
+! data-sort-type="number" |Magic<br />Def.
+! scope="col" |Special Effect
+! scope="col" |Lives
+! scope="col" |Gender
+|-
+|[[Alchemic Coat]]<br />'''[full body]'''
+|_
+|5
+|0
+|
+|[[File:Alchemist_icon_1.png]]
+|[[File:Male only.png]]
+|-
+|[[Alchemic Dress]]<br />'''[full body]'''
+|_
+|5
+|0
+|
+|[[File:Alchemist_icon_1.png]]
+|[[File:Female only.png]]
+|-
+|[[Angelic Tunic]]
+|_
+|10
+|10
+|
+|All
+|
+|-
+|[[Artisan's Apron]]
+|_
+|4
+|0
+|Focus +1
+|All
+|
+|-
+|[[Carp Smock]]
+|_
+|3
+|0
+|
+|[[File:Angler icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Carp Tunic]]
+|_
+|3
+|0
+|
+|[[File:Angler icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Carpenter's Shirt]]
+|_
+|3
+|0
+|
+|[[File:Carpenter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Carpenter's Tunic]]
+|_
+|3
+|0
+|
+|[[File:Carpenter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Castele Blouse]]
+|_
+|3
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Castele Shirt]]
+|_
+|3
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Chef's Apron (♂)]]<br />'''[full body]'''
+|_
+|5
+|0
+|
+|[[File:Cook icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Chef's Apron (♀)]]<br />'''[full body]'''
+|_
+|5
+|0
+|
+|[[File:Cook icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Chic Maajik Loose Top|Chic Maajik]]<br />[[Chic Maajik Loose Top|Loose Top]]
+|_
+|6
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Chic Maajik Top]]
+|_
+|6
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Cloth Merc Armour]]
+|_
+|4
+|0
+|
+|[[File:Mercenary icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Cute-Ribbon Dress]]<br />'''[full body]'''
+|_
+|18
+|25
+|Skill growth +
+|All
+|[[File:Female only.png]]
+|-
+|[[Dancer's Top]]
+|_
+|10
+|10
+|Dexterity +1
+|All
+|
+|-
+|[[Desert Top]]
+|_
+|6
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Devilish Shirt]]
+|_
+|10
+|10
+|
+|All
+|
+|-
+|[[Duelling Outfit]]
+|_
+|7
+|0
+|
+|All
+|
+|-
+|[[Elegant Dress]]<br />'''[full body]'''
+|_
+|17
+|25
+|Skill growth +
+|All
+|[[File:Female only.png]]
+|-
+|[[Fluffy Suit]]<br />'''[full body]'''
+|_
+|17
+|17
+|Sleep resistance
+|All
+|
+|-
+|[[Furnace Apron (♂)]]<br />'''[full body]'''
+|_
+|5
+|0
+|
+|[[File:Blacksmith icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Furnace Apron (♀)]]<br />'''[full body]'''
+|_
+|5
+|0
+|
+|[[File:Blacksmith icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Gaudy Jacket]]
+|_
+|7
+|5
+|Luck +4
+|All
+|
+|-
+|[[Harbour Hunk Suit]]
+|_
+|5
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Harbour Hunny Suit]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Highland Top]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Holiday Shirt]]
+|_
+|5
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Holiday Top]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Hunter's Tunic]]
+|_
+|3
+|0
+|
+|[[File:Hunter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Huntress's Top]]
+|_
+|3
+|0
+|
+|[[File:Hunter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Inner Dragon]]<br />'''[full body]'''
+|_
+|20
+|17
+|Strength +4
+|All
+|
+|-
+|[[Kodama Dress]]
+|_
+|3
+|0
+|
+|[[File:Woodcutter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Kodama Tunic]]
+|_
+|3
+|0
+|
+|[[File:Woodcutter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Leather Armour]]
+|_
+|7
+|0
+|
+|All
+|
+|-
+|[[Light Merc Armour]]
+|_
+|4
+|0
+|
+|[[File:Mercenary icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Linen Tunic]]
+|_
+|6
+|0
+|
+|All
+|
+|-
+|[[Mage's Robe]]<br />'''[full body]'''
+|_
+|5
+|6
+|
+|[[File:Magician icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Maharaja Robe]]
+|_
+|7
+|0
+|
+|All
+|
+|-
+|[[Miner's Cuirass]]
+|_
+|3
+|0
+|
+|[[File:Miner icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Miner's Frock]]
+|_
+|3
+|0
+|
+|[[File:Miner icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Ninja Outfit]]<br />'''[full body]'''
+|_
+|22
+|32
+|Critical rate +
+|All
+|
+|-
+|[[Paladin's Armour]]
+|_
+|5
+|0
+|
+|[[File:Paladin_icon_1.png]]
+|[[File:Male only.png]]
+|-
+|[[Paladin's Breastplate|Paladin's<br />Breastplate]]
+|_
+|5
+|0
+|
+|[[File:Paladin_icon_1.png]]
+|[[File:Female only.png]]
+|-
+|[[Plushling Costume]]<br />'''[full body]'''
+|_
+|18
+|18
+|Max HP +30
+|All
+|
+|-
+|[[Pretty Princess Outfit]]<br />'''[full body]'''
+|_
+|10
+|2
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Prisoner's Shirt]]
+|_
+|10
+|0
+|
+|All
+|
+|-
+|[[Puffy-Sleeved Top]]
+|_
+|7
+|0
+|Intelligence +1
+|All
+|
+|-
+|[[Quilted Coat]]
+|_
+|5
+|1
+|
+|All
+|
+|-
+|[[Sailor's Top]]
+|_
+|10
+|10
+|
+|All
+|
+|-
+|[[Seamstress's Dress]]<br />'''[full body]'''
+|_
+|5
+|0
+|
+|[[File:Tailor icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Snow Suit]]
+|_
+|10
+|10
+|
+|All
+|
+|-
+|[[Spike Tanktop]]
+|_
+|12
+|0
+|Strength +1
+|All
+|
+|-
+|[[Summer-Fun Top]]
+|_
+|10
+|10
+|Vitality +1
+|All
+|
+|-
+|[[Tuxedo]]
+|_
+|6
+|1
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Twilight Top]]
+|_
+|6
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Twin Tail Jacket]]
+|_
+|6
+|2
+|
+|All
+|
+|-
+|[[Weaver's Outfit]]
+|_
+|5
+|0
+|
+|[[File:Tailor icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Witch's Robe]]<br />'''[full body]'''
+|_
+|5
+|6
+|
+|[[File:Magician icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Yippee-Ki-Yay Outfit|Yippee-Ki-Yay<br />Outfit]]
+|_
+|10
+|10
+|
+|All
+|
+|-
+|[[Flame Robe]]<br />'''[full body]'''
+|5
+|10
+|14
+|Fire element ++
+|All
+|
+|-
+|[[Frigid Armour]]
+|5
+|7
+|7
+|Water element +
+|All
+|
+|-
+|[[Iron Armour]]
+|5
+|14
+|0
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Snakeskin Mail]]
+|5
+|9
+|2
+|Poison
+resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Aqua Robe]]<br />'''[full body]'''
+|7
+|16
+|20
+|Water
+element ++
+|All
+|
+|-
+|[[Coastal Armour]]
+|7
+|12
+|12
+|Wind element +
+|All
+|
+|-
+|[[Mermaid Mail]]
+|7
+|17
+|6
+|Water element +
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Savage Armour]]
+|7
+|18
+|6
+|Strength +1
+|All
+|
+|-
+|[[Earth Robe]]<br />'''[full body]'''
+|10
+|22
+|30
+|Earth element ++
+|All
+|
+|-
+|[[Gold Armour]]
+|10
+|28
+|8
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Grotto Armour]]
+|10
+|16
+|16
+|Earth element +
+|All
+|
+|-
+| style="background: wheat" | '''[[Lovely Swimwear]]'''
+|10
+|25
+|13
+|S. Skill charge rate +10%
+|All
+|[[File:Female only.png]]
+|-
+|[[Sandy Armour]]
+|10
+|16
+|16
+|Fire element +
+|All
+|
+|-
+|[[Shell Armour]]
+|10
+|23
+|10
+|Water element +
+|All
+|
+|-
+| style="background: wheat" |[[Surf's Up Shirt|'''Surf's Up Shirt''']]
+|10
+|25
+|13
+|S. Skill charge
+rate +10%
+|All
+|[[File:Male only.png]]
+|-
+|[[Wind Robe]]<br />'''[full body]'''
+|10
+|22
+|30
+|Wind Element ++
+|All
+|
+|-
+|[[Beastly Armour]]
+|15
+|32
+|15
+|Strength +2
+|All
+|
+|-
+|[[Gladiator's Armour]]
+|15
+|38
+|6
+|
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]]
+|
+|-
+|[[Light Robe]]<br />'''[full body]'''
+|15
+|45
+|50
+|Intelligence +4
+|All
+|
+|-
+|[[Magic Armour]]
+|15
+|38
+|28
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sky-High Armour]]
+|15
+|22
+|22
+|Luck +4
+|All
+|
+|-
+|[[Umbral Robe]]<br />'''[full body]'''
+|15
+|50
+|45
+|Focus +4
+|All
+|
+|-
+| style="background: wheat" |[[Bandit Outfit|'''Bandit Outfit''']]<br />'''[full body]'''
+|20
+|20
+|39
+|Attack +
+when unarmed
+|All
+|
+|-
+| style="background: wheat" |[[Buccaneer's Costume|'''Buccaneer's Costume''']]<br />'''[full body]'''
+|20
+|42
+|24
+|Rare fish
+rate +
+|All
+|
+|-
+|[[Butler's Suit]]<br />'''[full body]'''
+|20
+|38
+|51
+|Friendship
+growth rate ++
+|All
+|
+|-
+|[[Cacto Suit]]<br />'''[full body]'''
+|20
+|38
+|29
+|Wind
+element +++
+|All
+|
+|-
+|[[Carrotella Costume]]<br />'''[full body]'''
+|20
+|40
+|12
+|HP orb
+drop rate ++
+|All
+|
+|-
+| style="background: wheat" |[[Celestial Outfit|'''Celestial Outfit''']]<br />'''[full body]'''
+|20
+|61
+|9
+|Sweet Spot
+strike power ++
+|All
+|
+|-
+| style="background: wheat" |'''[[Daemon's Outfit]]'''<br />'''[full body]'''
+|20
+|27
+|104
+|Fire element ++
+|All
+|
+|-
+| style="background: wheat" |'''[[Danuta's Outfit]]'''<br />'''[full body]'''
+|20
+|56
+|4
+|Magic Defence
++15
+|All
+|
+|-
+|[[Festive Dress]]<br />'''[full body]'''
+|20
+|20
+|20
+|EXP crystal<br />drop rate +
+|All
+|
+|-
+|[[Fluffkin Suit]]<br />'''[full body]'''
+|20
+|46
+|5
+|Fire element ++
+|All
+|
+|-
+|[[Frilly Dress]]<br />'''[full body]'''
+|20
+|31
+|41
+|Friendship<br />growth rate ++
+|All
+|
+|-
+| style="background: wheat" |[[Goddess's Dress|'''Goddess's Dress''']]<br />'''[full body]'''
+|20
+|41
+|83
+|God Mode<br />time ++
+|All
+|
+|-
+| style="background: wheat" |'''[[Gold Dragon Body]]'''<br />'''[full body]'''
+|20
+|63
+|45
+|Max HP +30
+|All
+|
+|-
+|[[Inferno Armour]]
+|20
+|48
+|24
+|Fire element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: wheat" |'''[[Leilah's Dress]]'''<br />'''[full body]'''
+|20
+|33
+|38
+|Tool power +20
+|All
+|
+|-
+|[[Mysterious Robe]]<br />'''[full body]'''
+|20
+|17
+|59
+|Magic Attack +20
+|All
+|
+|-
+| style="background: wheat" |'''[[Pam's Dress]]'''<br />'''[full body]'''
+|20
+|21
+|33
+|Dosh drop rate +
+|All
+|
+|-
+| style="background: wheat" |'''[[Pino's Outfit]]'''<br />'''[full body]'''
+|20
+|39
+|33
+|S. Skill rate ++<br />(pickaxe)
+|All
+|
+|-
+|[[Princely Suit]]<br />'''[full body]'''
+|20
+|36
+|35
+|Battle EXP rate +
+|All
+|
+|-
+|[[Pumpkin Costume]]<br />'''[full body]'''
+|20
+|29
+|51
+|Earth element ++
+|All
+|
+|-
+|[[Snowman Costume]]<br />'''[full body]'''
+|20
+|29
+|27
+|Water element ++
+|All
+|
+|-
+|[[Tidal Armour]]
+|20
+|48
+|24
+|Water element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Yuelia's Outfit]]<br />'''[full body]'''
+|20
+|77
+|77
+|All elements +++
+|All
+|
+|-
+|[[Buccaneer's Coat]]
+|25
+|40
+|38
+|
+|All
+|
+|-
+|[[Dragon Mail]]
+|25
+|42
+|20
+|Stun resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Monarch Doublet]]
+|25
+|38
+|40
+|
+|All
+|
+|-
+|[[Berserker's Armour]]
+|30
+|56
+|20
+|Max HP +30
+|[[File:Mercenary icon 1.png]]
+|
+|-
+|[[Chief's Apron]]
+|30
+|46
+|20
+|Vitality +4
+|[[File:Carpenter icon 1.png]]
+|
+|-
+|[[Crusader's Plating]]
+|30
+|58
+|25
+|Max HP +30
+|[[File:Paladin icon 1.png]]
+|
+|-
+|[[Doctor's Garb]]<br />'''[full body]'''
+|30
+|65
+|60
+|Intelligence +4
+|[[File:Alchemist_icon_1.png]]
+|
+|-
+|[[Famous Fisher's Smock]]<br />'''[full body]'''
+|30
+|70
+|40
+|Focus +4
+|[[File:Angler icon 1.png]]
+|
+|-
+|[[Fashionista Dress]]<br />'''[full body]'''
+|30
+|70
+|40
+|Intelligence +4
+|[[File:Tailor icon 1.png]]
+|
+|-
+|[[Five Star Outfit]]<br />'''[full body]'''
+|30
+|70
+|40
+|Dexterity +4
+|[[File:Cook icon 1.png]]
+|
+|-
+|[[Grand Magician's Robe]]<br />'''[full body]'''
+|30
+|60
+|70
+|SP-recovery<br />speed ++
+|[[File:Magician icon 1.png]]
+|
+|-
+|[[Grand Miner's Cuirass|Grand Miner's]]<br />[[Grand Miner's Cuirass|Cuirass]]
+|30
+|46
+|20
+|Strength +4
+|[[File:Miner icon 1.png]]
+|
+|-
+|[[Heatwave Apron]]<br />'''[full body]'''
+|30
+|70
+|40
+|Vitality +4
+|[[File:Blacksmith icon 1.png]]
+|
+|-
+|[[Holy Armour]]
+|30
+|62
+|20
+|Luck +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sniper's Tunic]]
+|30
+|46
+|20
+|Dexterity +4
+|[[File:Hunter icon 1.png]]
+|
+|-
+|[[Woodland Jacket]]
+|30
+|46
+|20
+|Strength +4
+|[[File:Woodcutter icon 1.png]]
+|
+|-
+| style="background: wheat" |'''[[Odin's Armour]]'''<br />'''[full body]'''
+|40
+|95
+|24
+|Defence +15
+|All
+|
+|-
+| style="background: aquamarine" |[[Origin Island Armour|'''Origin Island<br />Armour''']]
+|40
+|38
+|38
+|Luck +6
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Rune Armour]]'''
+|45
+|68
+|29
+|Fire element ++
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |'''[[Shadow Armour]]'''
+|45
+|52
+|25
+|Strength +4
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Rainbow Robe]]'''<br />'''[full body]'''
+|50
+|86
+|72
+|Focus +4
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Fafnir's Mail]]'''
+|55
+|62
+|30
+|Stun resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+| style="background: aquamarine" |'''[[Godly Armour]]'''
+|55
+|80
+|21
+|Vitality +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Freya's Mail|'''Freya's Mail''']]
+|60
+|70
+|70
+|Luck +2
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |'''[[Officer's Armour]]'''<br />'''[full body]'''
+|60
+|146
+|38
+|Max HP +30
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Sacred Robe|'''Sacred Robe''']]
+|60
+|52
+|54
+|SP recovery
+speed +
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Lord's Armour]]'''<br />'''[full body]'''
+|70
+|156
+|42
+|Max HP +30
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |'''[[Minerva's Mail]]'''
+|70
+|75
+|75
+|Luck +4
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |'''[[Philosopher's Robe]]'''<br />'''[full body]'''
+|80
+|94
+|132
+|SP recovery<br />speed +++
+|All
+|
+|-
+| style="background: aquamarine" |'''[[Shogun Armour]]'''<br />'''[full body]'''
+|80
+|166
+|46
+|Max HP +30
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |'''[[Valkyrie Mail]]'''
+|80
+|80
+|80
+|Luck +6
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |'''[[Ares Armour]]'''
+|90
+|105
+|30
+|Max HP +30
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Dark Sultan's Armour|'''Dark Sultan's Armour''']]<br />'''[full body]'''
+|100
+|123
+|135
+|Defence +20
+|All
+|
+|-
+| style="background: wheat" |'''[[Dragon King's Armour]]'''<br />'''[full body]'''
+|100
+|202
+|42
+|Defence +20
+|All
+|
+|-
+| style="background: wheat" |'''[[Sea Lord's Armour]]'''<br />'''[full body]'''
+|100
+|175
+|84
+|Defence +20
+|All
+|
+|-
+| style="background: wheat" |'''[[Spirit King's Armour]]'''<br />'''[full body]'''
+|100
+|153
+|106
+|Defence +20
+|All
+|
+|}

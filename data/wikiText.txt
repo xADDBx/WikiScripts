@@ -1,0 +1,397 @@
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |NOVICE CHALLENGES
+|-
+| Fledgling Hunter
+''Hunting for a New Life''
+| Meet Hunter master Fern and learn the Hunter trade.
+|100
+|-
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |FLEDGLING CHALLENGES
+|-
+|Piercing Arrow Specialist
+''Shoot That Piercing Arrow''
+|Get straight to the point! Use Piercing Arrow (<b>A</b> charged attack) to defeat 10 monsters.
+|30
+|-
+|First Hunt
+''First Woolie''
+|As a Hunter, defeat 1 [[White Woolie]] in the [[East Grassy Plains]].
+|30
+|-
+|Keeper of the Fleece
+''Hunting for Woolies''
+|As a Hunter, defeat 5 [[White Woolie]]s in the [[East Grassy Plains]].
+|50
+|-
+|To Bee, or Not to Bee?
+''First Bee''
+|As a Hunter, defeat 1 [[Worker Bee]] around the flowers of the [[East Grassy Plains]].
+|30
+|-
+|Honey Hunter
+''Shooting Down Bees''
+|As a Hunter, defeat 5 [[Worker Bee]]s around the flowers of the [[East Grassy Plains]].
+|50
+|-
+|Winged Walker
+''First Road Runner''
+|As a Hunter, defeat 1 [[Road Runner]] near the waters of the [[East Grassy Plains]].
+|30
+|-
+|Bird Hunter
+''Hunting Road Runners''
+|As a Hunter, defeat 5 [[Road Runner]]s near the waters of the [[East Grassy Plains]].
+|50
+|-
+|Down with the Big Bad Wolf
+''First Wolf''
+|As a Hunter, defeat 1 [[Red Wolf]] in the [[East Grassy Plains]].
+|50
+|-
+|Wolfsbane
+''Wolf Takedown''
+|As a Hunter, defeat 3 [[Red Wolf|Red Wolves]] in the [[East Grassy Plains]].
+|80
+|-
+|On the Prowl
+''First Coyote''
+|As a Hunter, defeat 1 [[Coyote]], found in the East [[Grassy Plains]] at night.
+|50
+|-
+|Leader of the Pack
+''Chase Down Coyotes''
+|As a Hunter, defeat 3 [[Coyote]]s, found in the [[East Grassy Plains]] at night.
+|80
+|-
+|Sweet Reward
+|Gather 10 jars of [[Grassland Honey]] from trees around the [[Grassy Plains]].
+|50
+|-
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |APPRENTICE CHALLENGES
+|-
+|Scattershot Skills
+|Time to let fly! Use Scattershot ('''(X)''' charged attack) to defeat 10 monsters.
+|50
+|-
+|Baa Baa Black Sheep
+''First Black Woolie''
+|As a Hunter, defeat 1 [[Black Woolie]] in the northern part of the [[West Grassy Plains]].
+|50
+|-
+|Sheep Slayer
+''Stalking Black Woolies''
+|As a Hunter, defeat 5 [[Black Woolie]]s in the northern part of the [[West Grassy Plains]].
+|80
+|-
+|Buffalo, and Behold!
+''First Buffalo''
+|As a Hunter, defeat 1 [[Buffalo]] at the base of [[Mt Snowpeak|Mt. Snowpeak]].
+|50
+|-
+|The Buffalord
+''Big Catch of Buffalo''
+|As a Hunter, defeat 3 [[Buffalo]] at the base of [[Mt Snowpeak|Mt. Snowpeak]].
+|80
+|-
+|Going Batty
+''First Cave Bat''
+|As a Hunter, defeat 1 [[Cave Bat]] in [[Mt Snowpeak|Mt. Snowpeak's]] [[Waterfall Cave]].
+|50
+|-
+|Batter Up!
+''Bringing Down the Bats''
+|As a Hunter, defeat 5 [[Cave Bat]]s in [[Mt Snowpeak|Mt. Snowpeak's]] [[Waterfall Cave]].
+|80
+|-
+|Havin' a Hoot!
+''Stalk a Hootwink''
+|As a Hunter, defeat 1 [[Hootwink]], found in the [[Elderwood]] at night.
+|100
+|-
+|Hootwinked
+''Hootwink Hunt''
+|As a Hunter, defeat 3 [[Hootwink]]s, found in the [[Elderwood]] at night..
+|150
+|-
+|Bullseye
+''First Bull''
+|As a Hunter, defeat 1 [[Bull]] in the [[West Grassy Plains]].
+|120
+|-
+|Simply Bovine
+''Bow Hunt for Bulls''
+|As a Hunter, defeat 3 [[Bull]]s in the [[West Grassy Plains]].
+|180
+|-
+|Attack of the Killer Bunny!
+|Defeat 1 [[Killer Bunny]] in the [[West Grassy Plains]] at night, then cash in the Bounty as a Hunter.
+|250
+|-
+|Black Thunder
+''First Black Panther''
+|Defeat 1 [[Black Panther]] on [[Mt Snowpeak|Mt. Snowpeak]], then cash in the Bounty as a Hunter.
+|250
+|-
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |ADEPT CHALLENGES
+|-
+|Cashmeer Capers
+''First Cashmeer''
+|As a Hunter, defeat 1 [[Cashmeer]] on the cliffs of [[Mt Snowpeak|Mt. Snowpeak]].
+|80
+|-
+|Cashmeer Hunter
+''A Trio of Cashmeer''
+|As a Hunter, defeat 3 [[Cashmeer]] on the cliffs of [[Mt Snowpeak|Mt. Snowpeak]].
+|150
+|-
+|Forest Stalker
+''First Panther''
+|As a Hunter, defeat 1 elusive [[Forest Panther]], which lives in the [[Elderwood]].
+|80
+|-
+|Panther Pursuit
+|As a Hunter, defeat 3 elusive [[Forest Panther]]s, which live in the [[Elderwood]]s.
+|150
+|-
+|Desert Dogs
+''First Jackal''
+|As a Hunter, defeat 1 [[Jackal]] in the [[Desert Ravine]].
+|80
+|-
+|Jackal and Hide
+''Jumping Jackals''
+|As a Hunter, defeat 5 [[Jackal]]s in the [[Desert Ravine]].
+|150
+|-
+|Flutter in the Dark
+''First Dark Bat''
+|As a Hunter, defeat 1 [[Dark Bat]] in the [[Nautilus Cave]].
+|80
+|-
+|Bat Attack!
+''Prowling for Bats''
+|As a Hunter, defeat 5 [[Dark Bat]]s in the [[Nautilus Cave]].
+|150
+|-
+|Snowy Sprinter
+''First Snow Runner''
+|As a Hunter, defeat 1 [[Snow Runner]] at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|80
+|-
+|Dashing through the Snow
+''Trudging for Runners''
+|As a Hunter, defeat 5 [[Snow Runner]]s at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|150
+|-
+|Run Rabbit, Run!
+''First Snowflake Bunny''
+|As a Hunter, defeat 1 [[Snowflake Bunny]] at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|80
+|-
+|Let it Snow!
+''Bring Down the Bunnies''
+|As a Hunter, defeat 5 [[Snowflake Bunny|Snowflake Bunnies]] at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|150
+|-
+|The Grand Taur
+''First Taurus''
+|Defeat 1 [[Taurus]] in the [[West Grassy Plains]], then cash in the Bounty as a Hunter.
+|300
+|-
+|The Horned Menace
+|Defeat 1 [[Killer Horn]] in the [[Desert Ravine]], then cash in the Bounty as a Hunter.
+|350
+|-
+|The Beaked Menace
+''The Biggest of Beaks''
+|As a Hunter, defeat the vicious [[Bigbeak]] in the [[West Grassy Plains]].
+|500
+|-
+|Sweet Dreams
+''Honey from On High''
+|Gather 5 jars of [[Plateau Honey]] from trees on and around [[Mt Snowpeak|Mt. Snowpeak]].
+|150
+|-
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |EXPERT CHALLENGES
+|-
+|Dancing Arrows
+|Time to let loose again! Use Super Scattershot ('''(X) '''supercharged attack) to defeat 10 monsters.
+|150
+|-
+|The Night Ranger
+''First Hootlum''
+|As a Hunter, defeat 1 [[Hootlum]] in the [[Cave of Bones]].
+|150
+|-
+|Hootlum Havoc
+|As a Hunter, defeat 5 [[Hootlum]]s in the [[Cave of Bones]].
+|250
+|-
+|An Ancient Predator
+''First Pterodactyl''
+|As a Hunter, defeat 1 [[Pterodactyl]] on the plateaus of the [[Drysand Desert]].([https://fantasy-life.fandom.com/wiki/Drysand_Desert Aridian Desert])
+|150
+|-
+|Terror-Dactyl
+''Ptero Times Five''
+|As a Hunter, defeat 5 [[Pterodactyl]]s on the plateaus of the [[Drysand Desert]].([https://fantasy-life.fandom.com/wiki/Drysand_Desert Aridian Desert])
+|250
+|-
+|The Abominable Snowcat
+''First Snow Leopard''
+|As a Hunter, defeat 1 [[Snow Leopard]] at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|150
+|-
+|Hunting the Hunter
+''Spotting the Leopards''
+|As a Hunter, defeat 3 [[Snow Leopard]]s at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|250
+|-
+|Flurry of Feathers
+''First Glaciowl''
+|As a Hunter, defeat 1 [[Glaciowl]] at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|150
+|-
+|Glaciowl Shift
+''Cracking the Glaciowls''
+|As a Hunter, defeat 3 [[Glaciowl]]s at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|250
+|-
+|Sand Sprint
+''First Sand Runner''
+|As a Hunter, defeat 1 [[Sand Runner]] in the north-eastern part of the [[Drysand Desert]].
+|150
+|-
+|Sand Runner Safari
+|As a Hunter, defeat 5 [[Sand Runner]]s in the north-eastern part of the [[Drysand Desert]].
+|250
+|-
+|Quicksilver
+''First Silverwing''
+|As a Hunter, defeat 1 [[Silverwing]] at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|150
+|-
+|Soaring Silverwing Showdown.
+''Silver Showdown''
+|As a Hunter, defeat 5 [[Silverwing]]s at the top of [[Mt Snowpeak|Mt. Snowpeak]].
+|250
+|-
+|Kick the Hornet's Nest
+''Sting Before Stung''
+|Defeat 1 [[Killer Bee]] in the [[Drysand Desert]], then cash in the Bounty as a Hunter.
+|400
+|-
+|The Night Watch
+|Defeat 1 [[Eyes of Darkness]] in the [[Deep Elderwood]], then cash in the Bounty as a Hunter.
+|400
+|-
+|Freeze as a Bird
+''Survive a Blizzard''
+|As a Hunter, defeat 1 [[Blizzard Bird]] above the islands of [[Tortuga Archipelago]].
+|750
+|-
+|The Sweet Life
+|Gather 5 jars of [[Island Honey]] from trees around [[Cacto Cove]].
+|250
+|-
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |MASTER CHALLENGES
+|-
+|Stormcaller
+|Use Arrow Storm ('''(X)''' with a full Special Skill gauge) to defeat 10 monsters.
+|150
+|-
+|Things That Go Bump in the Night
+''First Nightmare Bat''
+|As a Hunter, defeat 1 [[Nightmare Bat]] in the depths of the [[Subterranean Lake]].
+|150
+|-
+|Winged Nightmare
+''Stopping the Nightmares''
+|As a Hunter, defeat 5 [[Nightmare Bat]]s in the depths of the [[Subterranean Lake]].
+|400
+|-
+|Bloodsucker
+''Staking the Bats''
+|As a Hunter, defeat 1 [[Vampire Bat]] in the [[Ancient Ruins]].
+|150
+|-
+|Bloodthirsty Work
+|As a Hunter, defeat 5 [[Vampire Bat]]s in the [[Ancient Ruins]].
+|400
+|-
+|Poison Powder
+''First Mothoon''
+|As a Hunter, defeat 1 [[Mothoon]] in the hills of [[Levitania]].
+|150
+|-
+|Toxic Trial
+''Multitude of Mothoons''
+|As a Hunter, defeat 5 [[Mothoon]]s in the hills of [[Levitania]].
+|400
+|-
+|The Crimson Flame
+''First Flame Moth''
+|As a Hunter, defeat 1 [[Flame Moth]] in the [[Ancient Ruins]].
+|150
+|-
+|Flame Moth Furore
+''Flame Moth Frenzy''
+|As a Hunter, defeat 3 [[Flame Moth]]s in the [[Ancient Ruins]].
+|400
+|-
+|Bunny Killer Killer
+''First Bunny Killer''
+|As a Hunter, defeat 1 [[Bunny Killer]] in the forests of [[West Levitania]].
+|150
+|-
+|Island Protector
+|As a Hunter, defeat 5 [[Bunny Killer]]s in the forests of [[West Levitania]].
+|400
+|-
+|The Poison Queen
+''Fall of the Queen''
+|Defeat 1 [[Queen Moth|Moth Queen]] in the [[Ancient Ruins]], then cash in the Bounty as a Hunter.
+|600
+|-
+|Thunderflap
+|As a Hunter, defeat 1 [[Thunderbird]] in the heights of the [[Drysand Desert]].
+|1000
+|-
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |HERO CHALLENGES
+|-
+|Howling in the Shadows
+|As a Hunter, defeat 15 [[Shadow Wolf]]s in the [[Dark Void]] on [[Cacto Cove]].
+|300
+|-
+|Howling in the Depths
+|As a Hunter, defeat 3 [[Boss Shadow Wolf]]s in the [[Dark Void]] on [[Cacto Cove]].
+|500
+|-
+|Wings of Darkness
+|As a Hunter, defeat 1 [[Shadow Bigbeak]] in the [[Dark Void]] on [[Cacto Cove]].
+|1500
+|-
+| style="text-align: center; vertical-align: middle; background-color: LightGray; font-weight:bold;" colspan="3" |'''GOD-IN-TRAINING CHALLENGES'''
+|-
+|Nectar of the Gods
+|As a Hunter, defeat 10 [[Godbee]] in [[Origin Island|Origin Island's]] [[Central Grassland]].
+|1500
+|-
+|Horn of the Gods
+|As a Hunter, defeat 10 [[Elder Horn]] in [[Origin Island|Origin Island's]] [[Central Grassland]].
+|1500
+|-
+|The Undying Predator
+|As a Hunter, defeat 10 [[Greywing Pterosaur]] at [[Origin Island|Origin Island's]] [[Rocky Hill Shrine]].
+|1500
+|-
+|Penguin Prince
+|As a Hunter, defeat 5 [[Penguin Groom]] on [[Origin Island|Origin Island's]] [[Penguin Beach]].
+|1500
+|-
+|Penguin Princess
+|As a Hunter, defeat 5 [[Penguin Bride]] on [[Origin Island|Origin Island's]] [[Penguin Beach]].
+|1500
+|-
+|The Divine Bird
+|Defeat 1 [[Heaven Bird]] on [[Origin Island|Origin Island's]] [[Penguin Beach]], then cash in the Bounty as a Hunter.
+|2500

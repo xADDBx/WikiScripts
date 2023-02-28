@@ -1,0 +1,1061 @@
+{| style="width: 670px;" class="wikitable sortable" border="0" cellpadding="1" cellspacing="1"   " wikitable collapsible
+|-
+! scope="col" |Name
+! data-sort-type="number" |Level
+! data-sort-type="number" |Def.
+! data-sort-type="number" |Magic<br />Def.
+! scope="col" |Special Effect
+! scope="col" |Lives
+! scope="col" |Gender
+|-
+|[[Alchemist's Bandana]]
+|_
+|1
+|0
+|
+|[[File:Alchemist_icon_1.png]]
+|
+|-
+|[[Artisan's Hat]]
+|_
+|3
+|0
+|
+|All
+|
+|-
+|[[Blacksmith's Beanie]]
+|_
+|1
+|0
+|
+|[[File:Blacksmith icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Blacksmith's Cap]]
+|_
+|1
+|0
+|
+|[[File:Blacksmith icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Brave Bandana]]
+|_
+|1
+|0
+|
+|[[File:Carpenter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Bright Bandana]]
+|_
+|1
+|0
+|
+|[[File:Carpenter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Cup Cap]]
+|_
+|5
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Cutter's Cap]]
+|_
+|2
+|0
+|
+|[[File:Woodcutter icon 1.png]]
+|
+|-
+|[[Dancer's Veil]]
+|_
+|6
+|6
+|Dexterity +1
+|All
+|
+|-
+|[[Demon Headpiece]]
+|_
+|6
+|6
+|
+|All
+|
+|-
+|[[Desert Headdress]]
+|_
+|5
+|0
+|
+|All
+|
+|-
+|[[Diving Mask]]
+|_
+|4
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Dragon-Whelp Head]]
+|_
+|9
+|6
+|Friendship growth
+rate +
+|All
+|
+|-
+|[[Elegant Headband]]
+|_
+|6
+|15
+|SP recovery
+speed +
+|All
+|[[File:Female only.png]]
+|-
+|[[Fishy Green Hood]]
+|_
+|2
+|0
+|
+|[[File:Angler icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Fishy Pink Hood]]
+|_
+|2
+|0
+|
+|[[File:Angler icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Flower Hairclip]]
+|_
+|4
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Frilly Headband]]
+|_
+|8
+|10
+|Dexterity +4
+|All
+|[[File:Female only.png]]
+|-
+|[[Gaudy Hat]]
+|_
+|4
+|4
+|Luck +2
+|All
+|
+|-
+|[[Halo]]
+|_
+|6
+|6
+|
+|All
+|
+|-
+|[[Highland Beret]]
+|_
+|3
+|0
+|
+|All
+|
+|-
+|[[Hunter's Hat]]
+|_
+|2
+|0
+|
+|[[File:Hunter icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Huntress's Hat]]
+|_
+|2
+|0
+|
+|[[File:Hunter icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Jade Turban]]
+|_
+|5
+|0
+|Intelligence +1
+|All
+|
+|-
+|[[Leather Cap]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Mage's Hood]]
+|_
+|1
+|2
+|
+|[[File:Magician icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Maharaja Turban]]
+|_
+|6
+|1
+|
+|All
+|
+|-
+|[[Miner's Helmet]]
+|_
+|2
+|0
+|
+|[[File:Miner icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Miner's Puffy Helmet]]
+|_
+|2
+|0
+|
+|[[File:Miner icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Netted Hat]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Ninja Headband]]
+|_
+|10
+|15
+|Critical rate +
+|All
+|
+|-
+|[[Pan-Fried Helm]]
+|_
+|2
+|0
+|
+|[[File:Cook icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Plain Helmet]]
+|_
+|3
+|0
+|
+|[[File:Mercenary icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Plushling Hat]]
+|_
+|8
+|8
+|Friendship growth
+rate ++
+|All
+|
+|-
+|[[Potluck Helm]]
+|_
+|2
+|0
+|
+|[[File:Cook icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Prisoner's Hat]]
+|_
+|6
+|0
+|
+|All
+|
+|-
+|[[Quilted Hat]]
+|_
+|4
+|1
+|
+|All
+|
+|-
+|[[Sailor's Hat]]
+|_
+|6
+|6
+|
+|All
+|
+|-
+|[[Sheepish Cap]]
+|_
+|6
+|6
+|Sleep resistance
+|All
+|
+|-
+|[[Slugger's Helm]]
+|_
+|3
+|0
+|
+|[[File:Mercenary icon 1.png]]
+|[[File:Male only.png]]
+|-
+|[[Snow Hat]]
+|_
+|6
+|6
+|
+|All
+|
+|-
+|[[Spikeband]]
+|_
+|8
+|0
+|Strength +1
+|All
+|
+|-
+| style="background: aquamarine" |[[Tiger Carp Helm|'''Tiger Carp Helm''']]
+|_
+|1
+|1
+|S. Skill charge
+rate +10%
+|All
+|
+|-
+|[[Witch's Hood]]
+|_
+|1
+|2
+|
+|[[File:Magician icon 1.png]]
+|[[File:Female only.png]]
+|-
+|[[Twisted Headband]]
+|_
+|6
+|6
+|Vitality +1
+|All
+|
+|-
+|[[Yippee-Ki-Yay Hat]]
+|_
+|6
+|6
+|
+|All
+|
+|-
+|[[Flame Hood]]
+|5
+|3
+|5
+|Fire element ++
+|All
+|
+|-
+|[[Frigid Headwear]]
+|5
+|4
+|4
+|Water element +
+|All
+|
+|-
+|[[Iron Helm]]
+|5
+|9
+|0
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Snakeskin Helm]]
+|5
+|6
+|2
+|Poison resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Aqua Hood]]
+|7
+|6
+|12
+|Water element ++
+|All
+|
+|-
+|[[Coastal Headwear]]
+|7
+|8
+|8
+|Wind element +
+|All
+|
+|-
+|[[Mermaid Helm]]
+|7
+|11
+|4
+|Water element +
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Savage Cap]]
+|7
+|12
+|4
+|Strength +1
+|All
+|
+|-
+|[[Earth Hood]]
+|10
+|9
+|16
+|Earth element ++
+|All
+|
+|-
+|[[Gold Helm]]
+|10
+|18
+|5
+|
+|All
+|
+|-
+|[[Grotto Headwear]]
+|10
+|11
+|11
+|Earth element +
+|All
+|
+|-
+|[[Sandy Headwear]]
+|10
+|11
+|11
+|Fire element +
+|All
+|
+|-
+|[[Shellmet]]
+|10
+|15
+|7
+|Water element +
+|All
+|
+|-
+|[[Wind Hood]]
+|10
+|9
+|16
+|Wind element ++
+|All
+|
+|-
+|[[Beastly Cap]]
+|15
+|18
+|10
+|Strength +2
+|All
+|
+|-
+|[[Gladiator's Helm]]
+|15
+|24
+|3
+|
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]]
+|
+|-
+|[[Light Hood]]
+|15
+|18
+|22
+|Intelligence +2
+|All
+|
+|-
+|[[Magic Helm]]
+|15
+|28
+|18
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Shark Hat]]
+|15
+|14
+|14
+|
+|All
+|
+|-
+|[[Sky-High Headwear]]
+|15
+|14
+|14
+|SP recovery
+speed +
+|All
+|
+|-
+|[[Umbral Hood]]
+|15
+|22
+|18
+|Focus +2
+|All
+|
+|-
+| style="background: wheat" | [[Bandit Hood|'''Bandit Hood''']]
+|20
+|10
+|19
+|Attack +
+when unarmed
+|All
+|
+|-
+| style="background: wheat" | [[Buccaneer's Headband|'''Buccaneer's Headband''']]
+|20
+|18
+|12
+|All fish damage +
+|All
+|
+|-
+|[[Cacto Cabeza]]
+|20
+|16
+|21
+|Wind element ++
+|All
+|
+|-
+| style="background: wheat" |[[Carrotella Head|'''Carrotella Head''']]
+|20
+|18
+|6
+|Max HP +40
+|All
+|
+|-
+| style="background: wheat" |[[Celestial Hat|'''Celestial Hat''']]
+|20
+|26
+|4
+|Max Sweet Spot<br />strikes ++
+|All
+|
+|-
+| style="background: wheat" | [[Danuta's Hat|'''Danuta's Hat''']]
+|20
+|24
+|2
+|Magic Defence
++15
+|All
+|
+|-
+|[[Festive Hat]]
+|20
+|8
+|8
+|Item drop rate +
+|All
+|
+|-
+|[[Fluffkin Head]]
+|20
+|20
+|3
+|Fire element ++
+|All
+|
+|-
+|[[Frilly Cap]]
+|20
+|13
+|19
+|Friendship growth
+rate ++
+|All
+|
+|-
+| style="background: wheat" |[[Goddess's Hairpiece|'''Goddess's Hairpiece''']]
+|20
+|18
+|38
+|God Mode time ++
+|All
+|
+|-
+| style="background: wheat" |[[Gold Dragon Head|'''Gold Dragon Head''']]
+|20
+|32
+|21
+|Max HP +30
+|All
+|
+|-
+|[[Grinning Hat]]
+|20
+|16
+|24
+|
+|All
+|
+|-
+|[[Inferno Helm]]
+|20
+|30
+|15
+|Fire element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Leilah's Floral Circlet|'''Leilah's Floral Circlet''']]
+|20
+|14
+|18
+|Crafting S. Skill
+rate +25%
+|All
+|
+|-
+|[[Laura's Hat]]
+|20
+|19
+|19
+|HP orb drop
+rate ++++
+|All
+|
+|-
+|[[Mystery Hat]]
+|20
+|6
+|27
+|Magic Attack +30
+|All
+|
+|-
+| style="background: wheat" |[[Pam's Bandana|'''Pam's Bandana''']]
+|20
+|10
+|16
+|Dosh drop
+rate +
+|All
+|
+|-
+| style="background: wheat" |[[Pino's Hat|'''Pino's Hat''']]
+|20
+|17
+|14
+|Rare drops +
+(gathering)
+|All
+|
+|-
+|[[Princely Crown]]
+|20
+|17
+|16
+|Crafting EXP +
+|All
+|
+|-
+|[[Pumpkin Head]]
+|20
+|12
+|23
+|Earth element ++
+|All
+|
+|-
+|[[Snowman's Head]]
+|20
+|13
+|13
+|Water element ++
+|All
+|
+|-
+|[[Tidal Helm]]
+|20
+|30
+|15
+|Water element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Witch's Hat]]
+|20
+|50
+|62
+|SP recovery
+speed +++
+|All
+|
+|-
+|[[Buccaneer's Hat]]
+|25
+|26
+|24
+|
+|All
+|
+|-
+|[[Dragon Helm]]
+|25
+|26
+|14
+|Sleep resistance
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Monarch Crown]]
+|25
+|24
+|26
+|
+|All
+|
+|-
+|[[Avalanche Helmet]]
+|30
+|30
+|15
+|Focus +4
+|[[File:Miner icon 1.png]]
+|
+|-
+|[[Chief's Bandana]]
+|30
+|28
+|15
+|Dexterity +4
+|[[File:Carpenter icon 1.png]]
+|
+|-
+|[[Creativity Cap]]
+|30
+|26
+|20
+|Intelligence +4
+|[[File:Alchemist_icon_1.png]]
+|
+|-
+|[[Crusader's Circlet]]
+|30
+|36
+|15
+|Dexterity +4
+|[[File:Paladin_icon_1.png]]
+|[[File:Male only.png]]
+|-
+|[[Crusader's Tiara]]
+|30
+|36
+|15
+|Focus +4
+|[[File:Paladin_icon_1.png]]
+|[[File:Female only.png]]
+|-
+|[[Five Star Hat]]
+|30
+|26
+|20
+|Focus +4
+|[[File:Cook icon 1.png]]
+|
+|-
+|[[Grand Magician's Hood]]
+|30
+|24
+|30
+|SP recovery
+speed +
+|[[File:Magician icon 1.png]]
+|
+|-
+|[[Hammer Head]]
+|30
+|28
+|15
+|Focus +4
+|[[File:Blacksmith icon 1.png]]
+|
+|-
+|[[Holy Helm]]
+|30
+|38
+|12
+|SP recovery
+speed +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sniper's Hat]]
+|30
+|28
+|15
+|Critical rate +
+|[[File:Hunter icon 1.png]]
+|
+|-
+|[[Steel Helm]]
+|30
+|36
+|12
+|S. Skill charge
+rate +10%
+|[[File:Mercenary icon 1.png]]
+|
+|-
+|[[Whale Hood]]
+|30
+|26
+|20
+|Intelligence +4
+|[[File:Angler icon 1.png]]
+|
+|-
+|[[Woodland Beret]]
+|30
+|30
+|15
+|Focus +4
+|[[File:Woodcutter icon 1.png]]
+|
+|-
+| style="background: wheat" |[[Odin's Helm|'''Odin's Helm''']]
+|40
+|42
+|11
+|Attack +15
+|All
+|
+|-
+| style="background: aquamarine" |[[Origin Island Cap|'''Origin Island Cap''']]
+|40
+|32
+|32
+|SP recovery
+speed ++
+|All
+|
+|-
+| style="background: aquamarine" |[[Rune Helm|'''Rune Helm''']]
+|45
+|46
+|22
+|SP recovery +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Shadow Cap|'''Shadow Cap''']]
+|45
+|36
+|20
+|Strength +4
+|All
+|
+|-
+| style="background: aquamarine" |[[Rainbow Hood|'''Rainbow Hood''']]
+|50
+|42
+|38
+|Focus +4
+|All
+|
+|-
+| style="background: aquamarine" |[[Fafnir's Helm|'''Fafnir's Helm''']]
+|55
+|46
+|24
+|Sleep resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+| style="background: aquamarine" |'''[[Godly Helm]]'''
+|55
+|56
+|13
+|Vitality +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Freya's Helm|'''Freya's Helm''']]
+|60
+|40
+|45
+|Luck +2
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Officer's Helm|'''Officer's Helm''']]
+|60
+|58
+|14
+|S. Skill charge
+rate +10%
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Sacred Hood|'''Sacred Hood''']]
+|60
+|46
+|48
+|SP recovery
+speed +
+|All
+|
+|-
+| style="background: aquamarine" |[[Lord's Helm|'''Lord's Helm''']]
+|70
+|63
+|16
+|S. Skill charge
+rate +10%
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Minerva's Helm|'''Minerva's Helm''']]
+|70
+|45
+|50
+|Luck +4
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Philosopher's Hat|'''Philosopher's Hat''']]
+|80
+|48
+|62
+|SP recovery
+speed ++++
+|All
+|
+|-
+| style="background: aquamarine" |[[Shogun Helm|'''Shogun Helm''']]
+|80
+|68
+|18
+|S. Skill charge
+rate +10%
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Valkyrie Helm|'''Valkyrie Helm''']]
+|80
+|50
+|55
+|Luck +6
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Ares Circlet|'''Ares Circlet''']]
+|90
+|75
+|25
+|Intelligence +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Cursed Dragon Helm|'''Cursed Dragon Helm''']]
+|100
+|75
+|32
+|Special Skill
+damage +
+|All
+|
+|-
+| style="background: wheat" |[[Dark Sultan's Helm|'''Dark Sultan's Helm''']]
+|100
+|52
+|62
+|Attack +30
+|All
+|
+|-
+| style="background: wheat" |[[Dragon King's Helm|'''Dragon King's Helm''']]
+|100
+|87
+|19
+|Attack +30
+|All
+|
+|-
+| style="background: wheat" |[[Sea Lord's Helm|'''Sea Lord's Helm''']]
+|100
+|75
+|39
+|Attack +30
+|All
+|
+|-
+| style="background: wheat" |'''[[Spirit King's Helm]]'''
+|100
+|65
+|48
+|Attack +30
+|All
+|
+|}

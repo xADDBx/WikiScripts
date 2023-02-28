@@ -1,0 +1,978 @@
+{| style="width: 670px;" class="wikitable sortable" border="0" cellpadding="1" cellspacing="1"   " wikitable collapsible
+|-
+! scope="col" |Name
+! data-sort-type="number" |Level
+! data-sort-type="number" |Def.
+! data-sort-type="number" |Magic<br />Def.
+! scope="col" |Special Effect
+! scope="col" |Lives
+! scope="col" |Gender
+|-
+|[[Alchemist's Shoes]]
+|_
+|1
+|0
+|
+|[[File:Alchemist_icon_1.png]]
+|
+|-
+|[[Angelic Shoes]]
+|_
+|5
+|5
+|
+|All
+|
+|-
+|[[Artisan's Shoes]]
+|_
+|2
+|0
+|Focus +1
+|All
+|
+|-
+|[[Beach Sandals]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Blacksmith's Shoes]]
+|_
+|1
+|0
+|
+|[[File:Blacksmith_icon_1.png]]
+|
+|-
+|[[Carpenter's Boots]]
+|_
+|1
+|0
+|
+|[[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Castele Heels]]
+|_
+|5
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Comfy Slippers]]
+|_
+|4
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Cute Shoes]]
+|_
+|8
+|10
+|Dexterity +4
+|All
+|[[File:Female only.png]]
+|-
+|[[Cutter's Boots]]
+|_
+|1
+|0
+|
+|[[File:Woodcutter_icon_1.png]]
+|
+|-
+|[[Dancer's Shoes]]
+|_
+|5
+|5
+|Dexterity +1
+|All
+|
+|-
+|[[Demon Shoes]]
+|_
+|5
+|5
+|
+|All
+|
+|-
+|[[Dragon Stompers]]
+|_
+|8
+|5
+|Strength +2
+|All
+|
+|-
+|[[Elegant Shoes]]
+|_
+|5
+|15
+|SP recovery
+speed ++
+|All
+|[[File:Female only.png]]
+|-
+| style="background: wheat" |[[Fanciful Feet|'''Fanciful Feet''']]
+|_
+|25
+|25
+|EXP rate x2
+|All
+|
+|-
+|[[Flip-Flops]]
+|_
+|5
+|5
+|Vitality +1
+|All
+|
+|-
+|[[Formal Dress Shoes]]
+|_
+|5
+|0
+|
+|All
+|[[File:Male only.png]]
+|-
+|[[Gaudy Boots]]
+|_
+|5
+|4
+|Luck +2
+|All
+|
+|-
+|[[Harbour Sandals]]
+|_
+|3
+|0
+|
+|All
+|
+|-
+| style="background: wheat" |[[Hermes Sandals|'''Hermes Sandals''']]
+|_
+|25
+|25
+|Dash without
+using SP
+|All
+|
+|-
+|[[High-Toe Boots]]
+|_
+|5
+|0
+|Intelligence +1
+|All
+|
+|-
+|[[Highland Loafers]]
+|_
+|2
+|0
+|
+|All
+|
+|-
+|[[Hoofing-It Shoes]]
+|_
+|5
+|5
+|Sleep resistance
+|All
+|
+|-
+|[[Hunter's Shoes]]
+|_
+|1
+|0
+|
+|[[File:Hunter icon 1.png]]
+|
+|-
+|[[Leather Boots]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Lowtop Shoes]]
+|_
+|1
+|0
+|
+|All
+|
+|-
+|[[Magician's Shoes]]
+|_
+|1
+|2
+|
+|[[File:Magician icon 1.png]]
+|
+|-
+|[[Maharaja Shoes]]
+|_
+|5
+|0
+|
+|All
+|
+|-
+|[[Mercenary's Boots]]
+|_
+|2
+|0
+|
+|[[File:Mercenary_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Millionaire's Shoes|'''Millionaire's Shoes''']]
+|_
+|25
+|25
+|Dosh drop ++++
+|All
+|
+|-
+|[[Miner's Boots]]
+|[[Miner's Boots|_]]
+|1
+|0
+|
+|[[File:Miner_icon_1.png]]
+|
+|-
+|[[Moccasins]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Mules]]
+|_
+|3
+|0
+|
+|All
+|[[File:Female only.png]]
+|-
+|[[Ninja Tabi]]
+|_
+|8
+|13
+|Critical rate +
+|All
+|
+|-
+|[[Pair of Babouches]]
+|_
+|4
+|0
+|
+|All
+|
+|-
+|[[Paladin's Boots]]
+|[[Paladin's Boots|_]]
+|2
+|0
+|
+|[[File:Paladin_icon_1.png]]
+|
+|-
+|[[Platform Boots]]
+|_
+|7
+|2
+|Strength +1
+|All
+|
+|-
+|[[Plushling Feet]]
+|_
+|8
+|8
+|Max HP +20
+|All
+|
+|-
+|[[Quilted Boots]]
+|_
+|3
+|1
+|
+|All
+|
+|-
+|[[Ribbon-Laced Shoes]]
+|_
+|5
+|0
+|
+|All
+|
+|-
+|[[Snow Shoes]]
+|_
+|5
+|5
+|
+|All
+|
+|-
+|[[Starboard Shoes]]
+|_
+|5
+|5
+|
+|All
+|
+|-
+|[[Tailor's Shoes]]
+|_
+|1
+|0
+|
+|[[File:Tailor icon 1.png]]
+|
+|-
+|[[Warrior's Sandals]]
+|_
+|3
+|0
+|
+|All
+|
+|-
+|[[Yippee-Ki-Yay Boots]]
+|_
+|5
+|5
+|
+|All
+|
+|-
+|[[Duelling Boots]]
+|5
+|3
+|0
+|
+|All
+|
+|-
+|[[Frigid Boots]]
+|5
+|3
+|3
+|Water element +
+|All
+|
+|-
+|[[Iron Boots]]
+|5
+|8
+|0
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Snakeskin Boots]]
+|5
+|5
+|2
+|Poison resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Coastal Boots]]
+|7
+|8
+|8
+|Wind element +
+|All
+|
+|-
+|[[Mermaid Boots]]
+|7
+|9
+|3
+|Water element +
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Savage Boots]]
+|7
+|10
+|4
+|Strength +1
+|All
+|
+|-
+|[[Gold Boots]]
+|10
+|14
+|6
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Grotto Boots]]
+|10
+|9
+|9
+|Earth element +
+|All
+|
+|-
+|[[Sandy Boots]]
+|10
+|9
+|9
+|Fire element +
+|All
+|
+|-
+|[[Shell Boots]]
+|10
+|11
+|5
+|Water element +
+|All
+|
+|-
+|[[Beastly Boots]]
+|15
+|16
+|8
+|Strength +2
+|All
+|
+|-
+|[[Gladiator's Metal Boots]]
+|15
+|22
+|3
+|
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]]
+|
+|-
+|[[Magic Boots]]
+|15
+|20
+|16
+|
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sky-High Boots]]
+|15
+|10
+|10
+|Luck +1
+|All
+|
+|-
+| style="background: wheat" |[[Bandit Boots|'''Bandit Boots''']]
+|20
+|7
+|15
+|Strength +10
+|All
+|
+|-
+| style="background: wheat" |[[Buccaneer Shoes|'''Buccaneer Shoes''']]
+|20
+|16
+|9
+|S. skill
+rate ++ (rod)
+|All
+|
+|-
+|[[Butler's Shoes]]
+|20
+|14
+|19
+|Friendship
+growth rate ++
+|All
+|
+|-
+|[[Cacto Zapatos]]
+|20
+|14
+|16
+|Wind element ++
+|All
+|
+|-
+| style="background: wheat" |[[Carrotella Boots|'''Carrotella Boots''']]
+|20
+|15
+|5
+|HP orb
+drop rate ++
+|All
+|
+|-
+| style="background: wheat" |[[Celestial Shoes|'''Celestial Shoes''']]
+|20
+|23
+|3
+|Special tree
+damage ++
+|All
+|
+|-
+| style="background: wheat" |[[Daemon's Shoes|'''Daemon's Shoes''']]
+|20
+|11
+|38
+|Wind element ++
+|All
+|
+|-
+| style="background: wheat" |[[Danuta's Shoes|'''Danuta's Shoes''']]
+|20
+|20
+|1
+|Magic Defence +10
+|All
+|
+|-
+|[[Festive Shoes]]
+|20
+|7
+|7
+|Item drop rate +
+|All
+|
+|-
+|[[Fluffkin Feet]]
+|20
+|17
+|1
+|Fire element ++
+|All
+|
+|-
+|[[Frilly Shoes]]
+|20
+|12
+|15
+|Friendship
+growth rate ++
+|All
+|
+|-
+| style="background: wheat" |[[Goddess's Heels|'''Goddess's Heels''']]
+|20
+|15
+|30
+|God mode time ++
+|All
+|
+|-
+| style="background: wheat" |[[Gold Dragon Feet|'''Gold Dragon Feet''']]
+|20
+|24
+|17
+|Vitality +10
+|All
+|
+|-
+|[[Inferno Boots]]
+|20
+|24
+|14
+|Fire element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Leilah's Boots|'''Leilah's Boots''']]
+|20
+|13
+|14
+|Crafting
+time limit ++
+|All
+|
+|-
+|[[Magic Shoes]]
+|20
+|8
+|18
+|Intelligence +2
+|All
+|
+|-
+|[[Mysterious Boots]]
+|20
+|5
+|22
+|Magic Attack +20
+|All
+|
+|-
+| style="background: wheat" |[[Pam's Shoes|'''Pam's Shoes''']]
+|20
+|9
+|13
+|Dosh drop rate +
+|All
+|
+|-
+| style="background: wheat" |[[Pino's Boots|'''Pino's Boots''']]
+|20
+|14
+|13
+|S. Skill
+rate ++ (axe)
+|All
+|
+|-
+|[[Princely Boots]]
+|20
+|13
+|13
+|Gathering
+EXP rate +
+|All
+|
+|-
+|[[Pumpkin Feet]]
+|20
+|12
+|18
+|Earth element ++
+|All
+|
+|-
+|[[Tidal Boots]]
+|20
+|24
+|14
+|Water element +
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Snowman Boots]]
+|20
+|12
+|11
+|Water element ++
+|All
+|
+|-
+|[[Buccaneer's Boots]]
+|25
+|20
+|18
+|
+|All
+|
+|-
+|[[Dragon Boots]]
+|25
+|22
+|12
+|Poison resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+|[[Monarch Loafers]]
+|25
+|18
+|20
+|
+|All
+|
+|-
+|[[Chief's Safety Boots]]
+|30
+|24
+|12
+|Vitality +4
+|[[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Crusader's Boots]]
+|30
+|34
+|16
+|Vitality +4
+|[[File:Paladin_icon_1.png]]
+|
+|-
+|[[Doctor's Shoes]]
+|30
+|22
+|18
+|Dexterity +4
+|[[File:Alchemist_icon_1.png]]
+|
+|-
+|[[Famous Fisher's Sandals]]
+|30
+|24
+|12
+|Focus +4
+|[[File:Angler icon 1.png]]
+|
+|-
+|[[Fashionista Shoes]]
+|30
+|22
+|18
+|Dexterity +4
+|[[File:Tailor icon 1.png]]
+|
+|-
+|[[Five Star Shoes]]
+|30
+|22
+|18
+|Focus +4
+|[[File:Cook icon 1.png]]
+|
+|-
+|[[Grand Magician's Shoes]]
+|30
+|20
+|20
+|SP recovery
+speed +
+|[[File:Magician icon 1.png]]
+|
+|-
+|[[Grand Miner's Boots]]
+|30
+|24
+|12
+|Vitality +4
+|[[File:Miner_icon_1.png]]
+|
+|-
+|[[Hammer Boots]]
+|30
+|24
+|12
+|Vitality +4
+|[[File:Blacksmith icon 1.png]]
+|
+|-
+|[[Holy Boots]]
+|30
+|36
+|12
+|Luck +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+|[[Sniper's Boots]]
+|30
+|24
+|12
+|Focus +2
+|[[File:Hunter icon 1.png]]
+|
+|-
+|[[Steel-Toe Shoes]]
+|30
+|32
+|10
+|Vitality +4
+|[[File:Mercenary_icon_1.png]]
+|
+|-
+|[[Woodland Boots]]
+|30
+|24
+|11
+|Vitality +4
+|[[File:Woodcutter_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Odin's Boots|'''Odin's Boots''']]
+|40
+|36
+|10
+|Defence +15
+|All
+|
+|-
+| style="background: aquamarine" |[[Origin Island Boots|'''Origin Island Boots''']]
+|40
+|18
+|18
+|Luck +2
+|All
+|
+|-
+| style="background: aquamarine" |[[Rune Boots|'''Rune Boots''']]
+|45
+|36
+|22
+|Earth element ++
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Shadow Boots|'''Shadow Boots''']]
+|45
+|28
+|17
+|Strength +4
+|All
+|
+|-
+| style="background: aquamarine" |[[Fafnir's Boots|'''Fafnir's Boots''']]
+|55
+|34
+|17
+|Poison resistance
+|[[File:Paladin icon 1.png]][[File:Mercenary icon 1.png]][[File:Hunter icon 1.png]]<br />[[File:Miner icon 1.png]][[File:Woodcutter icon 1.png]][[File:Angler icon 1.png]]<br />[[File:Blacksmith icon 1.png]][[File:Carpenter icon 1.png]]
+|
+|-
+| style="background: aquamarine" |[[Godly Boots|'''Godly Boots''']]
+|55
+|46
+|13
+|Vitality +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: aquamarine" |[[Freya's Sandals|'''Freya's Sandals''']]
+|60
+|30
+|35
+|Luck +2
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Officer's Tabi|'''Officer's Tabi''']]
+|60
+|48
+|14
+|Vitality +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Sacred Boots|'''Sacred Boots''']]
+|60
+|24
+|34
+|Focus +2
+|All
+|
+|-
+| style="background: aquamarine" |[[Lord's Tabi|'''Lord's Tabi''']]
+|70
+|53
+|16
+|Luck +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Minerva's Sandals|'''Minerva's Sandals''']]
+|70
+|35
+|40
+|Luck +4
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Philosopher's Shoes|'''Philosopher's Shoes''']]
+|80
+|28
+|62
+|SP recovery
+speed ++
+|All
+|
+|-
+| style="background: aquamarine" |[[Shogun Tabi|'''Shogun Tabi''']]
+|80
+|58
+|18
+|Strength +4
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|[[File:Male only.png]]
+|-
+| style="background: aquamarine" |[[Valkyrie Sandals|'''Valkyrie Sandals''']]
+|80
+|40
+|45
+|Luck +6
+|All
+|[[File:Female only.png]]
+|-
+| style="background: aquamarine" |[[Ares Sandals|'''Ares Sandals''']]
+|90
+|65
+|20
+|Dexterity +6
+|[[File:Paladin_icon_1.png]][[File:Mercenary_icon_1.png]][[File:Miner_icon_1.png]]<br />
+[[File:Woodcutter_icon_1.png]][[File:Blacksmith_icon_1.png]][[File:Carpenter_icon_1.png]]
+|
+|-
+| style="background: wheat" |[[Dark Sultan's Boots|'''Dark Sultan's Boots''']]
+|100
+|45
+|49
+|Earth element +++
+|All
+|
+|-
+| style="background: wheat" |[[Dragon King's Boots|'''Dragon King's Boots''']]
+|100
+|75
+|15
+|Fire element +++
+|All
+|
+|-
+| style="background: wheat" |[[Sea Lord's Boots|'''Sea Lord's Boots''']]
+|100
+|65
+|31
+|Water element +++
+|All
+|
+|-
+| style="background: wheat" |[[Spirit King's Boots|'''Spirit King's Boots''']]
+|100
+|57
+|38
+|Earth element +++
+|All
+|
+|}
