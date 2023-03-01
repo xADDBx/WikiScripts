@@ -663,7 +663,7 @@
         Stat2 = M,
         Stat2Value = 9,
         Special = "Line Gauge Recovery ++",
-        Sold = "?",
+        Sold = B,
         Sell = { 10, "N/A", "N/A", "N/A", "N/A" },
         Type = T,
         DLC = 1

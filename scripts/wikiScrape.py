@@ -180,6 +180,8 @@ class Armour:
                 self.Sold = "B"
             else:
                 self.Sold = "G"
+        if "Gold or Silver Lunares".lower() in str(wiki).lower() or "Silver or Gold Lunares".lower() in str(wiki).lower():
+            self.Sold = "B"
         self.Rarity = 0
         for argument in wiki.templates[0].arguments:
             argument.name = argument.name.strip().lower()
@@ -323,14 +325,14 @@ class Armour:
         return entries
 
 
-part = "Feet"
-res = Armour.readTable("../data/wiki" + part + "Table.txt")
+for part in ['Body', 'Legs', 'Hand', 'Feet', 'Head']:
+    res = Armour.readTable("../data/wiki" + part + "Table.txt")
 
-file = []
-for item in res:
-    file.append(str(item.scrape()))
-    print(f"Done: {item.Name}")
+    file = []
+    for item in res:
+        file.append(str(item.scrape()))
+        print(f"Done: {item.Name}")
 
-f = codecs.open("../data/scraped" + part + ".txt", "w", encoding='utf-8')
-[f.write(x) for x, _ in sorted(zip(file, res), key=lambda x: (int(x[1].Skilllvl), int(x[1].Rarity), x[1].Usable))]
-f.close()
+    f = codecs.open("../data/scraped" + part + ".txt", "w", encoding='utf-8')
+    [f.write(x) for x, _ in sorted(zip(file, res), key=lambda x: (int(x[1].Skilllvl), int(x[1].Rarity), x[1].Usable))]
+    f.close()
