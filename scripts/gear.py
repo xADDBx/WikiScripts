@@ -1,5 +1,6 @@
 import pywikibot
 import re
+import wikitextparser as wtp
 
 '''
 Iterates through every item with an entry in the wikiScrape produced data.
@@ -9,11 +10,11 @@ Replaces the {{Gear}} Template with the {{Gear/Automatic}} template.
 geartypes = ['Longswords', 'Greatswords', 'Bows', 'Staves', 'Daggers', 'Pickaxes', 'Axes', 'FishingRods', 'FryingPans',
              'Hammers', 'Saws', 'Needles', 'Flasks', 'Head', 'Shields', 'Accessories', 'Body', 'Legs', 'Hand', 'Feet']
 
-pages = [pywikibot.Page(pywikibot.Site(), f"Module:Gear/{i}/Data") for i in geartypes]
+catPages = [pywikibot.Page(pywikibot.Site(), f"Module:Gear/{i}/Data") for i in geartypes]
 notDone = []
 br = False
 i = 0
-for page in pages:
+for page in catPages:
     print("Doing " + geartypes[i])
     i += 1
     if br:
@@ -24,7 +25,13 @@ for page in pages:
         pages = [pywikibot.Page(pywikibot.Site(), i) for i in items]
         for itemPage in pages:
             if "{{Gear/Automatic}}" not in itemPage.text:
-                print(itemPage.text)
+                wiki = wtp.parse(itemPage.text)
+                for template in wiki.templates:
+                    if "gear" in str(template).lower():
+                        print(str(template))
+                        itemPage.text = itemPage.text.replace(str(template), "{{Gear/Automatic}}")
+                        itemPage.save("Replace Gear Template with Gear/Automatic -- test", minor=False)
+                        break
                 br = True
     except KeyboardInterrupt:
         br = True
