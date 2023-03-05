@@ -28,9 +28,9 @@ for page in catPages:
                 wiki = wtp.parse(itemPage.text)
                 for template in wiki.templates:
                     if "gear" in str(template).lower():
-                        print(str(template))
+                        print(str(itemPage))
                         itemPage.text = itemPage.text.replace(str(template), "{{Gear/Automatic}}")
-                        itemPage.save("Replace Gear Template with Gear/Automatic -- test", minor=False)
+                        itemPage.save("Replace Gear Template with Gear/Automatic -- bot", minor=False)
                         break
                 br = True
     except KeyboardInterrupt:
@@ -41,4 +41,3 @@ for page in catPages:
 
 if notDone:
     print(notDone)
-
